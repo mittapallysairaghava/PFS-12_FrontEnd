@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Heading tags: heading 1</h1>
+        <h2>Heading tags: heading 2</h2>
+        <h3>Heading tags: heading 3</h3>
+        <h4>Heading tags: heading 4</h4>
+        <h5>Heading tags: heading 5</h5>
+        <h6>Heading tags: heading 6</h6>
+        <p>This is para</p>
+        <a href="https://www.amazon.in/">Codegnan</a>
+        <img src="./cdc logo.jpeg" alt="codegnan logo"/>
+        <button>Click me</button>
+        <hr/>
+
+        <div>
+            division: Div is block level element, new line and 100% width
+        </div>
+        <br/>
+        <span>span: span is inline element and content background ground space 
+        </span>
+        <br/><br/>
+        <header>Header is a semantic element</header>
+        <section>Section is a body element</section>
+        <footer>Footer semanic element</footer>
+        <p>Lorem ipsum  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor sit amet consectetur adipisicing elit. Doloribus tenetur officia, sunt enim repellat placeat fugit iusto suscipit dolorem! Rerum tempore quia dicta repellendus facilis accusantium fugiat magnam quaerat impedit!</p>
+        
+
+
+
+
+
+
+    </div>
+    
+</body>
+</html>
