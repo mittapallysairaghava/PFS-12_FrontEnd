@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Image File </title>
+</head>
+<body>
+    <div class="myClass">
+        <h1 id="id1">My Class Room is PFS-12</h1>
+        <p>This is MyClass Division paragraph</p>
+        <p id="id2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim laudantium placeat rerum quas iusto earum recusandae facere aspernatur blanditiis! Dolorem officiis asperiores reiciendis animi! Aliquid vero cum saepe. Dolore, consequatur.</p>
+     <img src="cdc logo.jpeg"/>
+     
+
+     
+    </div>
+</body>
+</html>
