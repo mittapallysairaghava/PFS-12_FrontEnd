@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table File</title>
+    <!-- <style>
+        table,th,td1
+        border:1px solid gray
+    </style> -->
+</head>
+<body>
+    <div>
+        <h1>Table Creation</h1>
+        <table style="border:1px solid gray">
+             <tr>
+                <th>S.NO</th>
+                <th>Names</th>
+                <th>Batch ID</th>
+                <th>Gmail</th>
+             </tr>
+             <tr>
+                <td>1</td>
+                <td>Sai Raghava</td>
+                <td>PFS-12</td>
+                <td>mittapallysairaghava@gmail.com</td>    
+            
+             </tr>
+             <tr>
+                <td>2</td>
+                <td>Uddith Raj</td>
+                <td>PFS-12</td>
+                <td>uddithraj@gmail.com</td>
+             </tr>
+             <tr>
+                <td>3</td>
+                <td>Mani Prasanth</td>
+                <td>JFS-12</td>
+                <td>maniprasanth@gmail.com</td>
+
+
+             </tr>
+             <tr>
+                 <td>4</td>
+                 <td>Rahul</td>
+                 <td>JFS-12</td>
+                 <td>rahul@gmail.com</td>
+
+             </tr>
+
+        </table>
+    </div>
+</body>
+</html>
