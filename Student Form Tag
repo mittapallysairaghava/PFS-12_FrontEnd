@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Details</title>
+</head>
+<body>
+    <div>
+        <h1><center>Student Details Form</center></h1>
+        <Form>
+            <label>Name :</label>
+            <input type="text"
+            placeholder="Enter Name"/>
+            <br/>
+            <label>Date of Birth :</label>
+            <input type="date"/>
+            <br/>
+            <label>Age :</label>
+            <input type="Numbers"/>
+            <br/>
+            <lable>College Name :</lable>
+            <input type="text"/>
+            <br/>
+            <label>Phone Number :</label>
+            <input type="Number"/>
+            <br/>
+            <label>Gmail :</label>
+            <input type="text"/>
+            <br/>
+            <label>Password :</label>
+            <input type="Enter Password"/>
+            <br/>
+            <fieldset style="width:10%">
+                <legend>Gender:</legend>
+                <input type="radio"
+                id="male" name="gender"
+                value="male" required />
+                <label>Male</label><br />
+                <input type="radio"
+                id="Female" name="gender"
+                value="Female" required />
+                <label>Female</label>
+                </fieldset>
+                <br/>
+
+                <fieldset style="width:10%">
+                    <legend>Skills:</legend>
+                    <input type="checkbox"
+                    id="Skills" name="SKILLS1"
+                    value="skill" required />
+                    <label>HTML</label>
+                    <br />
+                    <input type="checkbox"
+                    name="Skills"
+                    id="CSS" value="css"/>
+                    <label>CSS</label>
+                    <br />
+                    <input type="checkbox"
+                    name="Skills" id="javascript" 
+                    value="javascript"/>
+                    <label>JAVASCRIPT</label>
+                    </fieldset>
+                    <br />
+
+                    <label>Course:</label>
+                    <input type="text"
+                    placeholder="Enter course"/>
+                    <br />
+
+                    <fieldset style="width:15%">
+                    <legend>Hobbies:</legend>
+                    <input type="checkbox"
+                    name="Singing" id="Singing"
+                    value="Singing"/>
+                    <label>Singing</label>
+                    <br />
+                    <input type="checkbox"
+                    name="Dancing" id="Dancing"
+                    value="Dancing"/>
+                    <label>Dancing</label>
+                    <br />
+                    <input type="checkbox"
+                    name="Playing" id="Playing"
+                    value="Playing"/>
+                    <label>Playing</label>
+                    <input type="checkbox"
+                    name="Reading Books" id="Reading Books"
+                    value="Reading Books"/>
+                    <label>Reading Books</label>
+                    </fieldset>
+                    <br />
+
+
+                    <label>Address:</label>
+                    <input type="text"
+                    placeholder="Enter address"/>
+                    <br />
+
+
+                    
+                    
+                    <label>Resume:</label>
+                    <input type="text"
+                    placeholder="Choose File"/>
+                    <br />
+                    
+                    <label>Note:</label>
+                    <input type="text"/>
+                    
+                    <br />
+                
+
+                    <label><center>Submit</center></label>
+                    <input type="Submit"
+                    placeholder="Submit"/>
+        </Form>
+    </div>
+    
+</body>
+</html>
