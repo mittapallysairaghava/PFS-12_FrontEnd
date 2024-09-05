@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title> Semantic and Non_Semantic</title>
+</head>
+<body>
+    <!-- Semantic Elements -->
+     <Heading>
+        <h1> This is Heading</h1>
+        <p>This is Paragraph</p>
+    </Heading>
+    <session>
+        <h2>This is session semantic Element</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam incidunt id alias ipsa eius porro facilis. Nisi fuga consectetur eius, hic facilis veritatis. Quia dicta ducimus, adipisci suscipit praesentium corporis?</p>
+    </session>
+    <footer>
+        <p>This is Footer</p>
+    </footer>
+    
+    <!-- < Non Semantic Elemnts -->
+     <span>
+     <h1>This is Uddith Raj </h1>
+     <P>Fan of Power Star Pavan Kalyan</P>
+
+     </span>
+</body>
+</html>
